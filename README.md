@@ -2,7 +2,7 @@
 import sys
 import random
 import time
-import matplotlib,pyplot as plt
+import matplotlib.pyplot as plt
  
 n1 = input("Give the number of digits:")
 n = int(n1)
